@@ -14,4 +14,4 @@ class Persona{
 
 let persona:Persona
 persona=new Persona("Mario",22)
-persona.imprimir
+persona.imprimir()
